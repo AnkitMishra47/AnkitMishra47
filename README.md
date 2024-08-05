@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnkitMishra47
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Java , Spring , ReactJs
+- 🌱 I’m currently a software developer with hands on in Java, Spring, Angular, Docker
 - 💞️ I’m looking to collaborate on Java Project
 - 📫 How to reach me : LinkedIn : [Click here !!](https://www.linkedin.com/in/ankitmishra47/)
 
